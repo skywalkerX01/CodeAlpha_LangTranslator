@@ -33,7 +33,7 @@ This project provides a user-friendly interface for translating text between mul
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/skywalkerX01/CodeAlpha_LangTranslator.git
+git clone https://github.com/skywalkerX01/CodeAlpha_FAQ_Chat_Bot.git
 cd CodeAlpha_LangTranslator
 ```
 
